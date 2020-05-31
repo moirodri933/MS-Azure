@@ -7,11 +7,11 @@
             "type": "String"
         },
         "disks_VM_Linux_test01_disk1_e6c63fad8ddd46d6915d3371044f14c5_externalid": {
-            "defaultValue": "/subscriptions/0509a3a9-0809-4f61-9131-b2309f9af23b/resourceGroups/AZ1000301-MSA/providers/Microsoft.Compute/disks/VM-Linux-test01_disk1_e6c63fad8ddd46d6915d3371044f14c5",
+            "defaultValue": "/subscriptions/<you id >/resourceGroups/AZ-MSA/providers/Microsoft.Compute/disks/VM-Linux-test01_disk1_e6c63fad8ddd46d6915d3371044f14c5",
             "type": "String"
         },
         "networkInterfaces_vm_linux_test01772_externalid": {
-            "defaultValue": "/subscriptions/0509a3a9-0809-4f61-9131-b2309f9af23b/resourceGroups/az1000301-MSA/providers/Microsoft.Network/networkInterfaces/vm-linux-test01772",
+            "defaultValue": "/subscriptions/<you id >/resourceGroups/az-MSA/providers/Microsoft.Network/networkInterfaces/vm-linux-test01772",
             "type": "String"
         }
     },
